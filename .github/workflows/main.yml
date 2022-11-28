@@ -17,7 +17,7 @@ jobs:
       - uses: actions/checkout@v2
 
       - name: Validate links
-        uses: lycheeverse/lychee-action@v1.4.1
+        uses: lycheeverse/lychee-action@v1.5.4
         with:
           # --verbose -> Include more detail for troubleshoot.
           # --exclude-all-private -> Safeguard so avoid GH Action accessing runner local endpoints.
