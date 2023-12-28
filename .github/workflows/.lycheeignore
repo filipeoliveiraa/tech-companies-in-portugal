@@ -13,5 +13,15 @@
 # Excluded because Linkedin responds with HTTP 999, reference https://github.com/lycheeverse/lychee/issues/234
 .*\.linkedin\.com/.*
 # Excluded because an error is consistently generated but the URLs are OK.
+# Ignored because the URL returns a 404 error
+https://jobs.studentfinance.com/
+# Ignored because the URL returns a 404 error
+https://smartexai.notion.site/Careers-202df8b49bc84e978bb93278e163d9ad
+# Ignored because the URL causes too many redirects error
+https://www.reaktor.com/
+# Ignored because the URL causes a timeout
+https://youclap.tech/
+# Ignored because the URL returns a 404 error
+https://www.daredata.engineering/join-the-team
 # Error seen: Network error: error following redirect for url too many redirects
 .*\.faro\.com/.*
