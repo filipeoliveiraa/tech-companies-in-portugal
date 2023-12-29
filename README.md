@@ -90,7 +90,7 @@ Checking out the company's Tech stack through [Stackshare](https://stackshare.io
 | [Premium Minds](https://www.premium-minds.com/) [:rocket:](https://join.premium-minds.com/) | We build great software for innovative clients. | `Lisboa` |
 | [Present Technologies](https://www.present-technologies.com/) [:rocket:](https://www.present-technologies.com/careers/) | Delivering Quality Software. | `Coimbra` `Porto` <br> `Sertã` |
 | [Radically Digital](https://radically.digital/) [:rocket:](https://radically.digital/careers/) | Software, ideation, strategy and design consultancy. | `Lisboa` |
-| [Reaktor](https://www.reaktor.com) [:rocket:](https://www.reaktor.com/careers) | A global strategy, design, and technology partner. | `Lisboa` |
+| [Reaktor](https://www.reaktor.com) [:rocket:](https://www.reaktor.com/join/) | A global strategy, design, and technology partner. | `Lisboa` |
 | [Softinsa](https://www.softinsa.pt/) [:rocket:](https://www.softinsa.pt/carreiras/) | Services Development and Application / Infrastructure Management. | `Lisboa` `Tomar` <br> `Viseu` |
 | [Syone](https://www.syone.com/) [:rocket:](https://careers.syone.com/) | Outsourcing, nearshore, turnkey projects. | `Alfragide` <br> `Aveiro` `Lisboa` <br> `Maia` `Matosinhos` <br> `Oeiras` `Porto` |
 | [TMC](https://tmc-employeneurship.com/) [:rocket:](https://www.linkedin.com/company/tmcspain/jobs/) | Agile software development. | `Porto` |
@@ -135,7 +135,7 @@ Checking out the company's Tech stack through [Stackshare](https://stackshare.io
 | [BI4ALL](https://www.bi4all.pt/en/) [:rocket:](https://www.linkedin.com/company/bi4all/jobs/) | Consulting services with several analytics solutions. | `Lisboa` `Porto` |
 | [Critical Software](https://www.criticalsoftware.com) [:rocket:](https://www.criticalsoftware.com/careers) | Mission and business-critical applications. | `Coimbra` `Lisboa` <br> `Porto` `Tomar` <br> `Vila Real` `Viseu` |
 | [Eyenov](https://eyenov.com) | Computer Vision. Machine Learning. Mobile, desktop and embedded. | `Lisboa` `Remote` |
-| [DareData Engineering](https://daredata.engineering/) [:rocket:](https://www.daredata.engineering/join-the-team) | Data Science, Data Engineering and MLOps Consulting Boutique. | `Remote` |
+| [DareData Engineering](https://daredata.engineering/) | Data Science, Data Engineering and MLOps Consulting Boutique. | `Remote` |
 | [Fruition Partners](https://www.fruitionpartners.nl/) | Consultancy and Application Development based on ServiceNow. | `Fundão` `Lisboa` |
 | [JTA](https://www.thedatascientists.com/) [:rocket:](https://www.thedatascientists.com) | Machine Learning, Reporting and custom vizualizations services. | `Porto` |
 | [Kwanko](https://kwanko.com/) [:rocket:](https://www.kwanko.com/about-us/careers/) | An International leader in Crossdevice Performance Marketing. | `Lisboa` |
@@ -288,7 +288,7 @@ Checking out the company's Tech stack through [Stackshare](https://stackshare.io
 | [Samlino Group](https://samlinogroup.com/) [:rocket:](https://samlinogroup.com/careers/) | Financial products comparision for several markets (eg: [ComparaJá](https://www.comparaja.pt)). | `Lisboa` |
 | [Seedrs](https://www.seedrs.com) [:rocket:](https://www.seedrs.com/careers) | Equity marketplace for everyone. | `Lisboa` |
 | [SIBS](https://www.sibs.com/) [:rocket:](https://sibs-sgps.zohorecruit.eu/careers) | Major Portuguese payment processor. | `Lisboa` |
-| [StudentFinance](https://studentfinance.com/) [:rocket:](https://jobs.studentfinance.com) | Disrupting education through Income Share Agreements | `Lisboa` `Remote` |
+| [StudentFinance](https://studentfinance.com/) [:rocket:](https://studentfinance.com/careers/) | Disrupting education through Income Share Agreements | `Lisboa` `Remote` |
 | [SwissBorg](https://swissborg.com/) [:rocket:](https://swissborg.com/careers) | Crypto currencies exchange | `Remote` |
 | [Switch](https://switchpayments.com/) [:rocket:](https://switchpayments.com/about/careers) | The payments infrastructure for interoperability. | `Lisboa` `Porto` |
 | [Uphold](https://uphold.com/) [:rocket:](https://uphold.com/resources/careers) | US cloud based financial services platform. | `Braga` |
@@ -327,7 +327,7 @@ Checking out the company's Tech stack through [Stackshare](https://stackshare.io
 | [FARO Technologies](https://www.faro.com/) [:rocket:](https://www.faro.com/about-faro/career/) | The world’s most trusted source for 3d measurement. | `Porto` |
 | [Malvern Panalytical](https://www.malvernpanalytical.com/) [:rocket:](https://spectris.wd3.myworkdayjobs.com/Malvern_Panalytical_Careers) | Laboratory analytical instruments design and manufacturing. | `Maia` |
 | [Relex Solutions](https://www.relexsolutions.com/) [:rocket:](https://www.relexsolutions.com/careers/) | The market-leading supply chain & retail planning platform. | `Lisboa` |
-| [Smartex](https://www.smartex.ai/) [:rocket:](https://smartexai.notion.site/Careers-202df8b49bc84e978bb93278e163d9ad) | AI for the Next Generation of Textiles. | `Porto` |
+| [Smartex](https://www.smartex.ai/) [:rocket:](https://www.smartex.ai/careers) | AI for the Next Generation of Textiles. | `Porto` |
 
 ## Mobility :bike:
 
@@ -383,7 +383,7 @@ Checking out the company's Tech stack through [Stackshare](https://stackshare.io
 | Company | Description | Locations |
 | :------ | :---------- | :-------- |
 | [XING](https://www.xing.com/) [:rocket:](https://corporate.xing.com/en/career/porto/) | For a better working life. | `Porto` |
-| [YouClap](https://youclap.tech) | Create, participate and share awesome challenges. | `Aveiro` `Remote` |
+| [YouClap](https://youclap.me) | Create, participate and share awesome challenges. | `Aveiro` `Remote` |
 
 
 ## Sport :soccer:
