@@ -11,8 +11,8 @@ progress = false
 # Have a bigger timeout due to some sites being slow sometimes
 timeout = 65
 
-# Retry failed links after 5 seconds to avoid some local throttling situations
-retry_wait_time = 5
+# Retry failed links after 10 seconds to avoid some local throttling situations
+retry_wait_time = 10
 
 # Tolerate HTTP 403 Forbidden responses because it's a common response for domains behind Cloudflare.
 accept = [403]
