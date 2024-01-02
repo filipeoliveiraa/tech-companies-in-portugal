@@ -9,7 +9,7 @@ progress = false
 ####   Requests   ###############################
 
 # Have a bigger timeout due to some sites being slow sometimes
-timeout = 65
+timeout = 120
 
 # Retry failed links after 5 seconds to avoid some local throttling situations
 retry_wait_time = 5
