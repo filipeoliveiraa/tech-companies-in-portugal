@@ -90,7 +90,7 @@ Checking out the company's Tech stack through [Stackshare](https://stackshare.io
 | [Premium Minds](https://www.premium-minds.com/) [:rocket:](https://join.premium-minds.com/) | We build great software for innovative clients. | `Lisboa` |
 | [Present Technologies](https://www.present-technologies.com/) [:rocket:](https://www.present-technologies.com/careers/) | Delivering Quality Software. | `Coimbra` `Porto` <br> `Sertã` |
 | [Radically Digital](https://radically.digital/) [:rocket:](https://radically.digital/careers/) | Software, ideation, strategy and design consultancy. | `Lisboa` |
-| [Reaktor](https://www.reaktor.com) [:rocket:](https://www.reaktor.com/careers) | A global strategy, design, and technology partner. | `Lisboa` |
+| [Reaktor](#) [:rocket:](#) | A global strategy, design, and technology partner. | `Lisboa` |
 | [Softinsa](https://www.softinsa.pt/) [:rocket:](https://www.softinsa.pt/carreiras/) | Services Development and Application / Infrastructure Management. | `Lisboa` `Tomar` <br> `Viseu` |
 | [Syone](https://www.syone.com/) [:rocket:](https://careers.syone.com/) | Outsourcing, nearshore, turnkey projects. | `Alfragide` <br> `Aveiro` `Lisboa` <br> `Maia` `Matosinhos` <br> `Oeiras` `Porto` |
 | [TMC](https://tmc-employeneurship.com/) [:rocket:](https://www.linkedin.com/company/tmcspain/jobs/) | Agile software development. | `Porto` |
@@ -288,7 +288,7 @@ Checking out the company's Tech stack through [Stackshare](https://stackshare.io
 | [Samlino Group](https://samlinogroup.com/) [:rocket:](https://samlinogroup.com/careers/) | Financial products comparision for several markets (eg: [ComparaJá](https://www.comparaja.pt)). | `Lisboa` |
 | [Seedrs](https://www.seedrs.com) [:rocket:](https://www.seedrs.com/careers) | Equity marketplace for everyone. | `Lisboa` |
 | [SIBS](https://www.sibs.com/) [:rocket:](https://sibs-sgps.zohorecruit.eu/careers) | Major Portuguese payment processor. | `Lisboa` |
-| [StudentFinance](https://studentfinance.com/) [:rocket:](https://jobs.studentfinance.com) | Disrupting education through Income Share Agreements | `Lisboa` `Remote` |
+| [StudentFinance](#) [:rocket:](#) | Disrupting education through Income Share Agreements | `Lisboa` `Remote` |
 | [SwissBorg](https://swissborg.com/) [:rocket:](https://swissborg.com/careers) | Crypto currencies exchange | `Remote` |
 | [Switch](https://switchpayments.com/) [:rocket:](https://switchpayments.com/about/careers) | The payments infrastructure for interoperability. | `Lisboa` `Porto` |
 | [Uphold](https://uphold.com/) [:rocket:](https://uphold.com/resources/careers) | US cloud based financial services platform. | `Braga` |
