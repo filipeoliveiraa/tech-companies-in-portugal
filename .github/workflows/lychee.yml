@@ -1,0 +1,39 @@
+name: Lychee Workflow
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  lychee:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Run Lychee
+        uses: lycheeverse/lychee-action@v1.8.0
+        with:
+          args: --config .github/workflows/lychee.toml -- README.md
+          exclude:
+            - https://www.daredata.engineering/join-the-team
+            - https://jobs.studentfinance.com/
+            - https://youclap.tech/
+            - https://smartexai.notion.site/Careers-202df8b49bc84e978bb93278e163d9ad
+            - https://www.reaktor.com/
+            - https://oceaninfinity.com/
+            - https://www.oceanscan-mst.com
+
+      - name: Save Lychee output
+        run: |
+          mkdir -p lychee
+          mv lychee/out.md lychee/lychee_output.md
+        if: always()
+
+      - name: Upload Lychee output
+        uses: actions/upload-artifact@v2
+        with:
+          name: lychee-output
+          path: lychee/lychee_output.md
