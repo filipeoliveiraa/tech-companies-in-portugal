@@ -341,8 +341,8 @@ Checking out the company's Tech stack through [Stackshare](https://stackshare.io
 | Company | Description | Locations |
 | :------ | :---------- | :-------- |
 | [Glookast](https://www.glookast.com/) | Solving the media workflow puzzle. | `Matosinhos` |
-| [MediaGaps](https://www.mediagaps.com/) | Bridging your workflow gaps. | `Porto` |
-| [MOG Technologies](https://www.mog-technologies.com) [:rocket:](https://www.mog-technologies.com/company/careers) | End-to-end solutions for professional media. | `Porto` |
+| [MediaGaps](https://www.mediagaps.com/) [:rocket:](https://www.mediagaps.com/careers) | Bridging your workflow gaps. | `Porto`  |
+| [MOG Technologies](https://www.mog-technologies.com) [:rocket:](https://www.mog-technologies.com/careers) [:octocat:](https://github.com/mog-technologies) | End-to-end solutions for professional media. | `Porto`  |
 | [Sky](https://www.sky.com) [:rocket:](https://careers.sky.com) | TV, broadband, talk, streaming and mobile. | `Aveiro` `Funchal` <br> `Lisboa` |
 
 
@@ -350,8 +350,8 @@ Checking out the company's Tech stack through [Stackshare](https://stackshare.io
 
 | Company | Description | Locations |
 | :------ | :---------- | :-------- |
-| [Ocean Infinity](https://oceaninfinity.com/) [:rocket:](https://oceaninfinity.com/careers/) | Transforming operations at sea to enable people and the planet to thrive. | `Porto` |
-| [OceanScan-MST](https://www.oceanscan-mst.com) [:rocket:](https://www.oceanscan-mst.com/job-opportunities/) | Lightweight Autonomous Underwater Vehicle manufacturer. | `Porto` |
+| [Ocean Infinity | The site is not available.](https://oceaninfinity.com/) [:rocket:](https://oceaninfinity.com/careers/) | Transforming operations at sea to enable people and the planet to thrive. | `Porto` |
+| [OceanScan-MST | The page could not be reached.](https://www.oceanscan-mst.com) [:rocket:](https://www.oceanscan-mst.com/job-opportunities/) | Lightweight Autonomous Underwater Vehicle manufacturer. | `Porto` |
 | [Xsealence](https://www.xsealence.pt) | Solutions for command, control and monitoring of maritime applications. | `Oeiras` |
 
 
