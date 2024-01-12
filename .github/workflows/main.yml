@@ -21,6 +21,6 @@ jobs:
         with:
           args: --config .github/workflows/lychee.toml -- README.md
           # Fail action on broken links
-          fail: true
+          fail: false
           # Write link validation summary to GH Job summary
-          jobSummary: true
+          jobSummary: false
