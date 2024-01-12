@@ -29,4 +29,5 @@ exclude_all_private = true
 exclude_mail = true
 
 # Exclude URLs contained in a file from checking
-exclude_file = [ ".github/workflows/.lycheeignore" ]
+[exclude]
+exclude-file = ".lycheeignore"
