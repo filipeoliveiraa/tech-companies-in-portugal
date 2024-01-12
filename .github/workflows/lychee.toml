@@ -30,4 +30,4 @@ exclude_mail = true
 
 # Exclude URLs contained in a file from checking
 [exclude]
-exclude-file = ".lycheeignore"
+exclude_file = ".lycheeignore"
