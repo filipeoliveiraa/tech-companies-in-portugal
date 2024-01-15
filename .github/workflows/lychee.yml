@@ -16,7 +16,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Validate links
+      - name: Validate links v0.13.0
         uses: lycheeverse/lychee-action@v0.13.0
         with:
           args: --config .github/workflows/lychee.toml -- README.md
