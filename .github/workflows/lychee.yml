@@ -1,0 +1,24 @@
+name: CI
+
+on:
+  push:
+    branches: ['*']
+  pull_request:
+    branches: [master]
+  schedule:
+    - cron: '55 5 * * *'
+
+jobs:
+  val-links:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Validate links
+        uses: lycheeverse/lychee-action@v0.13.0
+        with:
+          args: --config .github/workflows/lychee.toml -- README.md
+          fail: true
+          jobSummary: true
