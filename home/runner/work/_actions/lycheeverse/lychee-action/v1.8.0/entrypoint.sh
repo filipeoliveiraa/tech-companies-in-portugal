@@ -5,6 +5,12 @@ set -e
 LYCHEE_VERSION="v0.13.0"
 
 # Function to handle network errors
+handle_network_error() 
+{ 
+  local url="$1"
+  echo "Network error: $url"
+  exit 1
+}
 handle_network_error() {
   local url="$1"
   echo "Network error: $url"
@@ -12,6 +18,12 @@ handle_network_error() {
 }
 
 # Function to handle 404 errors
+handle_404_error() 
+{ 
+  local url="$1"
+  echo "404 error: $url"
+  exit 1
+}
 handle_404_error() {
   local url="$1"
   echo "404 error: $url"
@@ -23,7 +35,7 @@ LYCHEE_URL="https://github.com/lycheeverse/lychee/releases/download/$LYCHEE_VERS
 curl -sLO "$LYCHEE_URL"
 tar -xvzf "lychee-$LYCHEE_VERSION-x86_64-unknown-linux-gnu.tar.gz"
 rm "lychee-$LYCHEE_VERSION-x86_64-unknown-linux-gnu.tar.gz"
-install -t "$HOME/.local/bin" -D lychee
+install -t "$HOME/.local/bin" -D lychee 
 rm lychee
 echo "$HOME/.local/bin" >> "$GITHUB_PATH"
 
