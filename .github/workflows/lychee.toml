@@ -29,4 +29,10 @@ exclude_all_private = true
 exclude_mail = true
 
 # Exclude URLs contained in a file from checking
-exclude_file = [ ".github/workflows/.lycheeignore" ]
+exclude_urls = [
+  "https://smartexai.notion.site/Careers-202df8b49bc84e978bb93278e163d9ad",
+  "https://web.fractal.id/",
+  "https://www.daredata.engineering/join-the-team",
+  "https://jobs.studentfinance.com/",
+  "https://youclap.tech/"
+]
