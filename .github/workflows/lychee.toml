@@ -26,7 +26,7 @@ insecure = true
 
 
 # Ignore email links
-exclude_mail = true
+exclude_mail = false
 
 # Exclude URLs contained in a file from checking
 exclude_file = [ ".github/workflows/.lycheeignore" ]
