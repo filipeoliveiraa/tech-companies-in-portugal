@@ -23,7 +23,7 @@ insecure = true
 ####   Exclusions   ###############################
 
 # Safeguard so avoid GH Action accessing runner local endpoints
-exclude_all_private = true
+
 
 # Ignore email links
 exclude_mail = true
