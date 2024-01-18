@@ -1,0 +1,5 @@
+# Exclude all links to all DOMAIN.TEST subdomains
+.*\.DOMAIN\.TEST/.*
+
+# Exclude LinkedIn links
+.*\.linkedin\.com/.*
