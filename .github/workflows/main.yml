@@ -58,9 +58,12 @@ jobs:
           # Add error handling logic here
 # Add step to generate a summary of the errors encountered
 # Include relevant information such as count of different error types and specific details about each error
-# Add step to handle the successful execution of the lychee tool
-# Perform actions based on the successful execution
-# Generate reports or perform other desired actions
+- name: Handle Successful Execution
+  run: |
+    # Add actions to handle the successful execution of the lychee tool
+    # Generate reports or perform other desired actions
+    echo 'Successfully executed the lychee tool'
+  if: steps.lychee-validation.outcome == 'success'
           exit_code=$?
           if [ $exit_code -eq 2 ]; then
             echo 'Error: Exit code 2'
