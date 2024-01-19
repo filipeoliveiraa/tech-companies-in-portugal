@@ -31,6 +31,8 @@ jobs:
       - name: Handle Errors
         run: |
           # Add error handling logic here
+# Add step to generate a summary of the errors encountered
+# Include relevant information such as count of different error types and specific details about each error
           exit_code=$?
           if [ $exit_code -eq 2 ]; then
             echo 'Error: Exit code 2'
