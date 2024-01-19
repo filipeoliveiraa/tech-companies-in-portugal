@@ -30,6 +30,20 @@ jobs:
           output: lychee/out.md
             - name: Handle Errors
       - name: Handle Excluded URLs
+      - name: Handle Unknown Errors
+        run: |
+          # Add step to handle unknown errors encountered
+          # Perform actions based on the unknown errors encountered
+          # Generate reports or perform other desired actions
+          if [ $exit_code -eq 3 ]; then
+            echo 'Error: Exit code 3'
+            # Add actions to handle this error
+          elif [ $exit_code -eq 4 ]; then
+            echo 'Error: Exit code 4'
+            # Add actions to handle this error
+          else
+            echo 'No unknown errors'
+          fi
         run: |
           # Add step to handle excluded URLs encountered
           # Perform actions based on the excluded URLs encountered
