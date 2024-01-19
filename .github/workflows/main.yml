@@ -28,7 +28,16 @@ jobs:
           format: markdown
           jobsummary: true
           output: lychee/out.md
-      - name: Handle Errors
+            - name: Handle Errors
+      - name: Handle Excluded URLs
+        run: |
+          # Add step to handle excluded URLs encountered
+          # Perform actions based on the excluded URLs encountered
+          # Generate reports or perform other desired actions
+          if [ $exit_code -eq 2 ]; then
+            echo 'Error: Exit code 2'
+            # Add actions to handle this error
+          elif [ $exit_code -eq 1 ]; then
       - name: Handle Redirections
         run: |
           
@@ -48,4 +57,4 @@ jobs:
           else
             echo 'No errors'
           fi
-        if: steps.lychee-validation.outcome == 'failure'
+        if: steps.lychee-validation.outcome == 'failure' || steps.lychee-validation.outcome == 'success'
