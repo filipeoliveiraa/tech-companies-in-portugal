@@ -16,8 +16,10 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      - name: Install Dependencies
+        run: npm install lychee
       - name: Validate links
-        uses: lycheeverse/lychee-action@v1.9.0
+        run: npm install lychee
         with:
           args: --config .github/workflows/lychee.toml -- README.md
           # Fail action on broken links
