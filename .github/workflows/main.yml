@@ -19,10 +19,11 @@ jobs:
       - name: Install Dependencies
         run: npm install lychee
       - name: Validate links
-        run: npm install lychee
+        uses: lycheeverse/lychee-action@v1.8.0
         with:
-          args: --config .github/workflows/lychee.toml -- README.md
-          # Fail action on broken links
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          args: --config .github/workflows/lychee.toml README.md
           fail: true
-          # Write link validation summary to GH Job summary
-          jobSummary: true
+          format: markdown
+          jobsummary: true
+          output: lychee/out.md
