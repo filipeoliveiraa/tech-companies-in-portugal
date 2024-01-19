@@ -29,7 +29,9 @@ jobs:
           jobsummary: true
           output: lychee/out.md
       - name: Handle Errors
+      - name: Handle Redirections
         run: |
+          
           # Add error handling logic here
 # Add step to generate a summary of the errors encountered
 # Include relevant information such as count of different error types and specific details about each error
