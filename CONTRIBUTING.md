@@ -14,7 +14,18 @@ Please make sure the following company details are provided:
 Below you can find an example of how to add a company:
 | Company | Description | Locations |
 | :------ | :---------- | :-------- |
-| [Example](https://example.com/) [:rocket:](https://www.example.com/careers) [:octocat:](https://github.com/example) | Example revolutionises the way people write examples. | `Example City` |
+Locations must be written in their Portuguese names (e.g. use `Lisboa` instead of `Lisbon`);
+* Locations must be enclosed in an inline code block (using with backtick quotes `` ` ``) and separated by spaces;
+* Locations should be separated by a `<br>` at least every 2 locations to keep the table column width under control;
+* Both companies and locations are ordered alphabetically (except the special `Remote` location that must appear last);
+* If a new category is required please provide an explanation in the commit message;
+* If a company would fit in multiple categories, only the one category that fits best must be selected;
+
+If you encounter the lycheeverse/lychee-action@v1.8.0 error, please follow the instructions below:
+1. Check the error logs to understand the specifics of the error.
+2. Ensure that the URLs being accessed are correct and accessible.
+3. Analyze any network or DNS errors, and verify the availability of the specified resources.
+4. If necessary, reach out to the owner or support team of the resource to address any issues.
 
 Some additional things to keep in mind:
 * The company must allow working in/from Portugal;
