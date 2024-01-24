@@ -23,4 +23,4 @@ jobs:
           # Fail action on broken links
           fail: false
           # Write link validation summary to GH Job summary
-          jobSummary: true
+          run: echo 'Link validation summary' > $GITHUB_JOB_SUMMARY
