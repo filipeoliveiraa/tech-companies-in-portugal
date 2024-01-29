@@ -17,10 +17,12 @@ jobs:
       - uses: actions/checkout@v4
 
       - name: Validate links
+        env:
+          jobSummary: true
         uses: lycheeverse/lychee-action@v1.9.1
         with:
           args: --config .github/workflows/lychee.toml -- README.md
           # Fail action on broken links
-          fail: true
+          fail-on-broken-links: true
           # Write link validation summary to GH Job summary
           jobSummary: true
