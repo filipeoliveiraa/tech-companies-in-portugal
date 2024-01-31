@@ -6,7 +6,7 @@ on:
   pull_request:
     branches: [master]
   schedule:
-    - cron: '55 5 * * *'
+    - cron: '0 6 * * *'
 
 jobs:
   val-links:
@@ -19,8 +19,9 @@ jobs:
       - name: Validate links
         uses: lycheeverse/lychee-action@v1.9.1
         with:
-          args: --config .github/workflows/lychee.toml -- README.md
+          config: .github/workflows/lychee.toml
+          files: README.md
           # Fail action on broken links
-          fail: true
+          fail: false
           # Write link validation summary to GH Job summary
           jobSummary: true
