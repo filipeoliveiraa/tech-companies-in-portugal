@@ -108,8 +108,8 @@ Checking out the company's Tech stack through [Stackshare](https://stackshare.io
 | [AGAP2](https://www.agap2-it.pt) [:rocket:](https://www.agap2-it.pt) | Consultancy, Outsourcing. | `Lisboa` `Porto` |
 | [Alter Solutions](https://www.alter-solutions.com/) [:rocket:](https://www.alter-solutions.com/join-us) | Consultancy, Outsourcing, and Nearshore projects. | `Lisboa` `Porto` |
 | [Ankix](https://www.ankix.com/) [:rocket:](https://www.ankix.com/it-job-offers) | Consultancy, Outsourcing. | `Lisboa` |
-| [Aubay](https://www.aubay.pt/) [:rocket:](https://www.aubay.pt/Home/Opportunities) | Consultancy, Outsourcing, and Nearshore projects. | `Lisboa` `Porto` |
-| [Bee Engineering](https://www.bee-eng.pt/pt/) [:rocket:](https://www.bee-eng.pt/pt/carreira/) | Consultancy, Outsourcing. | `Lisboa` `Porto` |
+| [Aubay](https://www.aubay.pt/) [:rocket:](https://www.aubay.pt/talento) | Consultancy, Outsourcing, and Nearshore projects. | `Lisboa` `Porto` |
+| [Bee Engineering](https://www.bee-eng.pt/) [:rocket:](https://www.bee-eng.pt/career) | Consultancy, Outsourcing. | `Lisboa` `Porto` |
 | [BOLD by Devoteam](https://bold.devoteam.com/) [:rocket:](https://bold.devoteam.com/join-us/) | Consultancy, Outsourcing. | `Aveiro` `Lisboa` <br> `Porto` |
 | [Damia](https://www.damiagroup.pt/) [:rocket:](https://www.damiagroup.pt/careers/) | Human 2 Human Tech Recruitment. | `Aveiro` `Lisboa` <br> `Porto` |
 | [Dellent Consulting](https://dellentconsulting.com/) [:rocket:](https://dellentconsulting.com/_carreiras/) | Consultancy, Outsourcing. | `Aveiro` `Lisboa` |
@@ -151,6 +151,7 @@ Checking out the company's Tech stack through [Stackshare](https://stackshare.io
 | [7egend](https://www.7egend.cr/) [:rocket:](https://jobs.7egend.cr/) | Digital Agency with focus on Web, Mobile and IoT. | `Lisboa` `Porto` |
 | [Bliss Applications](https://www.blissapplications.com/) [:rocket:](https://www.blissapplications.com/careers) | UX/UI & software-driven company. | `Lisboa` `Porto` |
 | [Coletiv](https://www.coletiv.com) [:rocket:](https://coletiv.com/#jobs) | Mobile and backend development. | `Porto` |
+| [Criativatek](https://criativatek.com) [:rocket:](https://www.linkedin.com/company/criativatek) | Web, mobile, development and design services. | `Leiria` |
 | [Deemaze](https://deemaze.com/) [:rocket:](https://medium.com/deemaze-software/were-hiring-975b43d5b051) | Web, Mobile development (RoR, Elixir, React, Vue, Swift, Kotlin). | `Braga` `Coimbra` |
 | [Dengun](https://www.dengun.com/) [:rocket:](https://www.dengun.com/careers/) | Web, Mobile development and digital marketing. | `Faro` |
 | [Imaginary Cloud](https://www.imaginarycloud.com) [:rocket:](https://www.imaginarycloud.com/careers) | Web, mobile, development and design services. | `Lisboa` |
@@ -165,6 +166,7 @@ Checking out the company's Tech stack through [Stackshare](https://stackshare.io
 | [Vizzuality](https://www.vizzuality.com) [:rocket:](https://vizzuality.bamboohr.com/jobs/) | Digital Agency focused in having a positive impact in the world. | `Porto` `remote` |
 | [Waterdog](https://waterdog.mobi/) | Web and Mobile development. | `Lisboa` |
 | [Whitesmith](https://www.whitesmith.co/) [:rocket:](https://www.whitesmith.co/#get-in-touch) | Helping clients build amazing digital products that people love. | `Coimbra` `Remote` |
+| [Yarilabs](https://www.yarilabs.com/) [:rocket:](https://www.yarilabs.com/careers#Open-positions) | Professional Consulting and Product Development | `Braga` `Remote`|
 | [YLD](https://www.yld.io/) [:rocket:](https://www.yld.io/join-us/) | Software engineering, design, training and open-source. | `Lisboa` `Porto` <br> `Remote` |
 
 
@@ -232,6 +234,7 @@ Checking out the company's Tech stack through [Stackshare](https://stackshare.io
 | [ClanHR](https://www.clanhr.com) | Online Human Resources Management Software. | `Lisboa` |
 | [Coverflex](https://www.coverflex.com/) [:rocket:](https://careers.coverflex.com/) | Payments and benefits management. | `Remote` |
 | [Elecnor Deimos](https://www.elecnor-deimos.com/) [:rocket:](https://www.elecnor-deimos.com/jobs/) | Advanced design solutions and turn-key space software systems. | `Lisboa` |
+| [epilot](https://www.epilot.cloud/) [:rocket:](https://epilot.cloud/en/career-jobs/engineering/) [:octocat:](https://github.com/epilot-dev) | B2B e-commerce software for complex energy products. | `Remote` |
 | [Epos Now](https://www.eposnow.com/) [:rocket:](https://www.eposnow.com/uk/careers/) | Electronic point of sale solutions. | `Remote` |
 | [Five9](https://www.five9.com/) [:rocket:](https://www.five9.com/about/careers/jobs/) | Intelligent CX Platform. | `Porto` |
 | [Glintt](https://www.glintt.com/) [:rocket:](https://www.glintt.com/pt/carreiras/ofertas/Paginas/Ofertas.aspx) | Healthcare software. | `Algarve` `Lisboa` <br> `Porto` `Sintra` |
@@ -253,7 +256,7 @@ Checking out the company's Tech stack through [Stackshare](https://stackshare.io
 | [Primetag](https://primetag.com) [:rocket:](https://jobs.primetag.com/) | Influence Marketing Automation Software. | `Aveiro` `Lisboa` <br> `Remote` |
 | [Quidgest](https://quidgest.com/) [:rocket:](https://quidgest.com/quidgest/recrutamento/) | Information systems and ERP software. | `Lisboa` |
 | [RedHat](https://www.redhat.com/) [:rocket:](https://careers-redhat.icims.com/jobs/search?ss=1&searchLocation=13502--Remote) | Leading provider of enterprise open source solutions | `Remote` |
-| [Sherpany](https://www.sherpany.com/) [:rocket:](https://www.sherpany.com/en/careers/) | Meeting Management Software for Leaders. | `Lisboa` `Remote` |
+| [Sherpany](https://www.sherpany.com/) [:rocket:](https://www.sherpany.com/en/careers/our-culture/) | Meeting Management Software for Leaders. | `Lisboa` `Remote` |
 | [skeeled](https://www.skeeled.com/) [:rocket:](https://www.skeeled.com/career) | SaaS Talent Acquisition Software. | `Porto` |
 | [Tridonic](https://www.tridonic.com/com/en/) [:rocket:](https://career.zumtobelgroup.com/Jobs) | Smart and efficient lighting solutions. | `Porto` |
 | [Unit4](https://www.unit4.com/) [:rocket:](https://www.careers.unit4.com/) | ERP, Consulting. | `Algés` |
