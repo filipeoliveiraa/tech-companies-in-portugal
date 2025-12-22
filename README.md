@@ -146,6 +146,7 @@ Checking the company's Tech stack through [Stackshare](https://stackshare.io/) m
 | [Laminar](https://laminarprojects.com/) [:rocket:](https://laminarprojects.com/join-us/) | Building world class apps for the construction industry. | `Lisboa` |
 | [NILG.AI](https://nilg.ai/) [:rocket:](https://nilg.ai/) | Transforming data into actionable knowledge through AI. | `Porto` |
 | [TechRivo](https://techrivo.com/) [:rocket:](https://www.linkedin.com/company/techrivo/jobs/) | Custom software development and technical consulting.  | `Lisboa` |
+| [TensorOps](https://www.tensorops.ai) [:rocket:](https://job-boards.eu.greenhouse.io/tensorops) | AI/ML firm building production‑ready machine learning solutions. | `Remote` |
 
 
 ## Consultancy :man_office_worker: Web :globe_with_meridians: Mobile :iphone: Design :art:
@@ -179,6 +180,7 @@ Checking the company's Tech stack through [Stackshare](https://stackshare.io/) m
 | Company | Description | Locations |
 | :------ | :---------- | :-------- |
 | [Codacy](https://www.codacy.com) [:rocket:](https://www.codacy.com/careers) [:octocat:](https://github.com/codacy) | Automated code reviews & code analytics. | `Lisboa` `Remote` |
+| [Coralogix](https://coralogix.com) [:rocket:](https://coralogix.com/careers/) [:octocat:](https://github.com/coralogix) | SaaS observability platform for logs, metrics, and traces. | `Remote` |
 | [Dash0](https://www.dash0.com/) [:rocket:](https://careers.dash0.com/) [:octocat:](https://github.com/dash0hq) | Observability platform. | `Remote` |
 | [Datadog](https://www.datadog.com) [:rocket:](https://careers.datadoghq.com/) [:octocat:](https://github.com/datadog) | Cloud monitoring as a service | `Lisboa` `Remote` |
 | [Docker](https://docker.com) [:rocket:](https://www.docker.com/careers/) [:octocat:](https://github.com/docker) | Container and k8s tooling for developers. | `Remote` |
@@ -190,12 +192,14 @@ Checking the company's Tech stack through [Stackshare](https://stackshare.io/) m
 | [OutSystems](https://www.outsystems.com) [:rocket:](https://www.outsystems.com/company/careers/) | Low-code platform to visually develop applications. | `Braga` `Linda-a-Velha` <br> `Proença-a-Nova` |
 | [PagerDuty](https://pagerduty.com/) [:rocket:](https://careers.pagerduty.com/) | Real-time operations and incident management platform | `Lisboa` `Remote` |
 | [Redis](https://redis.io/) [:rocket:](https://redis.io/careers/) [:octocat:](https://github.com/redis) | In-memory data store used for caching, messaging, and databases. | `Remote` |
+| [RevenueCat](https://www.revenuecat.com/) [:rocket:](https://jobs.ashbyhq.com/revenuecat) [:octocat:](https://github.com/revenuecat) | Subscription management & analytics platform for in‑app purchases. | `Remote` |
 | [Rows](https://www.rows.com) [:rocket:](https://github.com/rows/hiring) [:octocat:](https://github.com/rows) | Create interactive web apps using spreadsheet skills. | `Porto` `Remote` |
 | [SingleStore](https://www.singlestore.com/) [:rocket:](https://www.singlestore.com/careers/jobs/) | The scalable cloud database for data-intensive applications, deployed on AWS, Azure, or GCP. (formerly MemSQL) | `Lisboa` `Remote` |
 | [Stream](https://getstream.io/) [:rocket:](https://getstream.io/team/#jobs) | API and SDK for chat messaging and activity feeds. | `Remote` |
 | [Synopsys](https://www.synopsys.com) [:rocket:](https://sjobs.brassring.com/TGnewUI/Search/Home/Home?partnerid=25235&siteid=5359) | Silicon chip design, verification, IP integration and application security | `Lisboa` `Porto` |
 | [Synthetic Users](https://www.syntheticusers.com/) [:rocket:](https://syntheticusers.notion.site/syntheticusers/Help-us-power-synthetic-research-for-the-world-s-best-companies-d7228e03ee1e49a691d6476cea133a64) | Synthetic research infrastructure | `Lisboa` |
 | [TeamViewer](https://www.teamviewer.com) [:rocket:](https://careers.teamviewer.com) | Remote access, device management and collaboration. | `Porto` |
+| [Tinybird](https://www.tinybird.co/) [:rocket:](https://www.tinybird.co/about#join-us) [:octocat:](https://github.com/tinybirdco) | Real‑time data platform to query & expose large datasets via APIs. | `Remote` |
 | [Unbabel](https://unbabel.com) [:rocket:](https://unbabel.com/careers/) [:octocat:](https://github.com/Unbabel) | Translation as a Service. | `Lisboa` |
 
 
@@ -222,6 +226,7 @@ Checking the company's Tech stack through [Stackshare](https://stackshare.io/) m
 | [QuintoAndar](https://www.quintoandar.com.br/) [:rocket:](https://carreiras.quintoandar.com.br/) [:octocat:](https://github.com/quintoandar) | Real Estate platform. | `Lisboa` `Remote` |
 | [Salsify](https://www.salsify.com) [:rocket:](https://www.salsify.com/careers) [:octocat:](https://github.com/salsify) | Product Experience Management and Syndication platform. | `Lisboa` |
 | [Threads Styling](https://www.threadsstyling.com/) [:rocket:](https://careers.threadsstyling.com/) | Personalised luxury shopping. Style inspiration. Global community. | `Porto` |
+| [Tillster](https://www.tillster.com) [:rocket:](https://www.tillster.com/careers) | Digital ordering and customer engagement platform for restaurants. | `Remote` |
 | [Trouva](https://www.trouva.com) [:rocket:](https://trouva.workable.com/) | Marketplace for independent boutiques. | `Lisboa` |
 | [Turbine Kreuzberg](https://turbinekreuzberg.com/en) [:rocket:](https://turbinekreuzberg.com/en/jobs) | Creates software that advances business and society. | `Faro` `Remote` |
 | [Uniplaces](https://www.uniplaces.com/) [:rocket:](https://careers.uniplaces.com/) | Student accomodation platform. | `Lisboa` `Remote` |
@@ -231,6 +236,7 @@ Checking the company's Tech stack through [Stackshare](https://stackshare.io/) m
 
 | Company | Description | Locations |
 | :------ | :---------- | :-------- |
+| [Datacamp](https://www.datacamp.com/) [:rocket:](https://www.datacamp.com/jobs) [:octocat:](https://github.com/datacamp) | Interactive platform to learn data skills through hands-on, bite-size courses. | `Remote` |
 | [DreamShaper](https://dreamshaper.com/) | Classroom tools to improve student work-related skills. | `Lisboa` `Porto` <br> `Remote` |
 | [Edubox](https://edubox.pt) [:rocket:](https://edubox.pt/candidaturas)| Educational solutions and school management software. | `Aveiro` |
 | [ELSA](https://elsaspeak.com/) [:rocket:](https://elsaspeak.com/careers)| AI-powered tool to improve pronunciation skills. | `Lisboa` `Remote` |
@@ -246,6 +252,8 @@ Checking the company's Tech stack through [Stackshare](https://stackshare.io/) m
 | [Amenitiz](https://amenitiz.com/) [:rocket:](https://amenitiz.com/en/career-page/) | Hotel Management Software | `Remote` |
 | [Amplemarket](https://amplemarket.com/) [:rocket:](https://amplemarket.com/careers) | AI powered sales assistant. | `Remote` |
 | [ARTSOFT](https://www.artsoft.pt/) [:rocket:](https://www.artsoft.pt/carreiras) | ERP Software | `Lisboa` |
+| [Ashby](https://www.ashbyhq.com/) [:rocket:](https://www.ashbyhq.com/careers) | AI-powered all-in-one recruiting platform and ATS. | `Remote` |
+| [Attio](https://attio.com/) [:rocket:](https://attio.com/careers) | Flexible, modern CRM for managing relationships and workflows. | `Remote` |
 | [Beqom](https://www.beqom.com/) [:rocket:](https://beqom.bamboohr.com/careers) | Compensation management platform for pay, bonuses, and incentives. | `Lisboa` |
 | [CASAFARI](https://www.casafari.com/) [:rocket:](https://casafari.factorialhr.pt/) | Real Estate Market information from agencies and private owners. | `Lisboa` |
 | [Cisco](https://www.cisco.com/) [:rocket:](https://www.cisco.com/c/en/us/about/careers.html) [:octocat:](https://github.com/cisco) | Network solutions. | `Oeiras` |
@@ -286,6 +294,7 @@ Checking the company's Tech stack through [Stackshare](https://stackshare.io/) m
 | [Quidgest](https://quidgest.com/) [:rocket:](https://quidgest.com/quidgest/recrutamento/) | Information systems and ERP software. | `Lisboa` |
 | [Reachdesk](https://reachdesk.com/) [:rocket:](https://reachdesk.com/careers) | Global, data-driven gifting platform for measurable B2B engagement. | `Lisboa` |
 | [RedHat](https://www.redhat.com/) [:rocket:](https://www.redhat.com/en/jobs/) | Leading provider of enterprise open source solutions | `Remote` |
+| [Reltio](https://www.reltio.com/) [:rocket:](https://www.reltio.com/careers/) | Cloud SaaS platform for unified enterprise master data management. | `Lisboa` |
 | [Remote](https://remote.com/) [:rocket:](https://remote.com/careers) | Platform for managing global remote teams and international payroll. | `Remote` |
 | [Sensei](https://www.sensei.tech) [:rocket:](https://www.sensei.tech/careers) | Leading European provider of autonomous stores. | `Lisboa` |
 | [Sensor Tower](https://sensortower.com/) [:rocket:](https://sensortower.com/careers) | App analytics and insights for mobile marketing. | `Lisboa` |
@@ -324,7 +333,6 @@ Checking the company's Tech stack through [Stackshare](https://stackshare.io/) m
 | [Flecto](https://flecto.io/) [:rocket:](https://www.notion.so/flecto/Working-at-Flecto-406db5e14c2c452abe89eecfb015b862) | Rental management for businesses promoting circular economy. | `Lisboa` `Remote` |
 | [Fractal](https://web.fractal.id) | Enabling open finance with a new Internet Identity layer. | `Porto` `Remote` |
 | [Global Blue](https://www.globalblue.com/en) [:rocket:](https://www.globalblue.com/en/about-us/career)| Tax-Free Shopping solutions. | `Lisboa` `Porto` <br> `Remote` |
-| [GoCardless](https://gocardless.com) [:rocket:](https://gocardless.com/about/careers) | Online platform for recurring payments and direct debits. | `Lisboa` |
 | [Goparity](https://www.goparity.com) [:rocket:](https://www.goparity.com/about/careers) | Crowdlending for sustainable projects with low entry. | `Lisboa` `Remote` |
 | [ITSector](https://itsector.com) [:rocket:](https://itsector.com/careers) | Software for financial institutions. | `Aveiro` `Braga` <br> `Bragança` `Lisboa` <br> `Porto` |
 | [JUMO](https://www.jumo.world) [:rocket:](https://careers.jumo.world/) | Financial inclusion platform. | `Remote` |
@@ -352,6 +360,7 @@ Checking the company's Tech stack through [Stackshare](https://stackshare.io/) m
 | [SwissBorg](https://swissborg.com/) [:rocket:](https://swissborg.com/careers) | Cryptocurrencies exchange | `Remote` |
 | [Tabby](https://tabby.ai/en-AE) [:rocket:](https://tabby.ai/en-AE/careers#careers) | Buy now, pay later platform that offers flexible payment options. | `Remote` |
 | [Teya](https://www.teya.com/) [:rocket:](https://careers.smartrecruiters.com/Teya) | Digital insurance platform offering personalized coverage solutions. | `Lisboa` `Porto` |
+| [Trustly](https://www.trustly.com) [:rocket:](https://www.trustly.com/careers) | Open Banking payments platform for direct bank‑to‑merchant transactions. | `Lisboa` |
 | [Uphold](https://uphold.com/) [:rocket:](https://uphold.com/resources/careers) | US cloud based financial services platform. | `Braga` |
 | [Wallet](https://wallet.tg/) [:rocket:](https://jobs.ton.org/companies/wallet-2#content) | User-friendly platform for efficiently managing crypto assets. | `Remote` |
 
@@ -499,5 +508,6 @@ Checking the company's Tech stack through [Stackshare](https://stackshare.io/) m
 | [Flix](https://www.flix.com) [:rocket:](https://flix.careers) | Leading global travel-tech company. | `Lisboa` |
 | [Hostelworld](https://www.hostelworld.com/) [:rocket:](https://www.hostelworldgroup.com/careers) | World's leading hostel-focused online booking platform. | `Porto` |
 | [Ryanair](https://www.ryanair.com/pt/pt) [:rocket:](https://careers.ryanair.com/jobs/?ryanair-jobs-department=21233) | Ryanair is an Irish ultra low-cost carrier. | `Lisboa` `Porto`|
+| [TLSContact](https://www.tlscontact.com/en/) [:rocket:](https://www.tlscontact.com/en/careers/) | Global visa and consular services provider for governments. | `Remote` |
 | [TripAdvisor](https://www.tripadvisor.com) [:rocket:](https://careers.tripadvisor.com) | The largest "social travel website" in the world. | `Lisboa` |
 | [Vision-Box](https://www.vision-box.com/) [:rocket:](https://www.vision-box.com/we-are-hiring) | Biometric solutions for automated border control, identity management, and security. | `Lisboa` |
